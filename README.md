@@ -1,4 +1,4 @@
-# Project manual
+# Python Lamda Serverless File Upload Trigger
 ## How to deploy this lambda function
 
 ### Set environment
