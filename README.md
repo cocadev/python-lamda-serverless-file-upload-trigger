@@ -1,4 +1,4 @@
-# Python Lamda Serverless File Upload Trigger
+# Python Lamda Serverless File Upload
 ## How to deploy this lambda function
 
 ### Set environment
